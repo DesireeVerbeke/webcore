@@ -1,4 +1,19 @@
 {
    "components":[
+      {
+         "data":"<button type=\"BUTTON\" id=\"_Button66\" zindex=\"0\" tabindex=\"1\" title=\"\" style=\"overflow: hidden; cursor: default; outline: none; top: 181px; left: 272px; width: 100px; height: 25px; position: absolute; user-select: none; color: rgb(0, 0, 0); font-family: Tahoma; font-style: normal; font-size: 8pt;\" data-tag=\"9999\" data-class=\"TButton\">Button</button>",
+         "id":"_Button66",
+         "class":"TButton"
+      },
+      {
+         "data":"<input type=\"TEXT\" id=\"_Edit67\" zindex=\"0\" tabindex=\"1\" title=\"\" placeholder=\"\" style=\"overflow: hidden; cursor: default; top: 320px; left: 400px; width: 100px; height: 25px; position: absolute; user-select: none; color: rgb(0, 0, 0); font-family: Tahoma; font-style: normal; font-size: 8pt; box-sizing: border-box; text-transform: initial;\" data-tag=\"9999\" data-class=\"TEdit\">",
+         "id":"_Edit67",
+         "class":"TEdit"
+      },
+      {
+         "data":"<span id=\"_Panel68\" zindex=\"0\" tabindex=\"-1\" title=\"\" style=\"overflow: hidden; cursor: default; outline: none; top: 150px; left: 574px; width: 310px; height: 247px; position: absolute; user-select: none; color: rgb(0, 0, 0); font-family: Tahoma; font-style: normal; font-size: 8pt; border-style: solid; border-width: 1px; border-color: rgb(192, 192, 192); white-space: nowrap; display: inline-block; background-color: rgb(240, 240, 240);\" data-tag=\"9999\" data-class=\"TPanel\"></span>",
+         "id":"_Panel68",
+         "class":"TPanel"
+      }      
    ]
 }
